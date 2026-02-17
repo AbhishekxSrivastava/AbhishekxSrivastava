@@ -7,8 +7,9 @@ Wipro TalentNext Certified - Java Dev
 
 ## Technical Skills :
 Languages : Java, Java Script, CSS, HTML, SQL
-Frontend: React.js, Tailwind CSS 
-Backend: Node.js, Express.js, REST APIs, JWT Authentication
+\n
+Frontend: React.js, Tailwind CSS \n
+Backend: Node.js, Express.js, REST APIs, JWT Authentication \n
 Tools : Git/Git Hub, Postman, VS Code
 
 <!--
