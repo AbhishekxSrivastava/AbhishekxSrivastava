@@ -2,14 +2,16 @@
 
 I'am Abhishek Srivastava,
 An Aspiring Software Development Engineer focusing on MERN Stack
-and building good problem solving skills also.
+and building good problem solving skills.
 Wipro TalentNext Certified - Java Dev
 
 ## Technical Skills :
 Languages : Java, Java Script, CSS, HTML, SQL
-\n
-Frontend: React.js, Tailwind CSS \n
-Backend: Node.js, Express.js, REST APIs, JWT Authentication \n
+
+Frontend: React.js, Tailwind CSS
+
+Backend: Node.js, Express.js, REST APIs, JWT Authentication
+
 Tools : Git/Git Hub, Postman, VS Code
 
 <!--
