@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'am Abhishek Srivastava,
+An Aspiring Software Development Engineer focusing on MERN Stack
+and building good problem solving skills also.
+Wipro TalentNext Certified - Java Dev
+
+## Technical Skills :
+Languages : Java, Java Script, CSS, HTML, SQL
+Frontend: React.js, Tailwind CSS 
+Backend: Node.js, Express.js, REST APIs, JWT Authentication
+Tools : Git/Git Hub, Postman, VS Code
+
 <!--
 **AbhishekxSrivastava/AbhishekxSrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
